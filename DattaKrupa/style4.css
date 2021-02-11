@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    position: relative;
+    
+}
+.logo{
+  
+    width: 40%;
+    height: 100px;
+    
+    float: left;
+}
+.logo h1{
+    
+    
+    margin-left: 100px;
+    color: red;
+    text-shadow: 2px 2px wheat;
+    font-size: 30px;
+    
+
+}
+
+.menu{
+    width: 60%;
+
+
+    line-height: 80px;
+    
+    float: right;
+    
+
+}
+.menu li{
+    color: white;
+    display: inline-block;
+    padding-left: 60px;
+    margin-left: 5px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.menu li:hover{
+    color: hotpink;
+}
+.mservice{
+    margin-top: 20px;
+    width: 50%;
+    height: 50px;
+    margin-left: 300px;
+    background-color: black;
+    align-items: center;
+}
+.mservice h2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.m1 img{
+    padding: 20px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.m2 img{
+    padding: 20px;
+    margin-top: 30px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+.m3 img{
+    padding: 20px;
+    margin-top: 30px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.contact{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+.ad{
+    width: 50%;
+    float: left;
+}
+.ad p{
+    color: wheat;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+.mo{
+    width: 50%;
+
+    display: inline-block;
+    color: white;
+
+}
